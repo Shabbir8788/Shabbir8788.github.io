@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shabbir8788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shabbir8788" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hasan al shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan al shabbir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasan-al-shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-al-shabbir" height="30" width="40" /></a>
 <a href="https://fb.com/shabbir8788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shabbir8788" height="30" width="40" /></a>
 <a href="https://instagram.com/hasan_al_shabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasan_al_shabbir" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shabbir8788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shabbir8788" height="30" width="40" /></a>
